@@ -1,6 +1,6 @@
 {
   "name": "phing/task-coverage",
-  "description": "coverage database tasks which can be used to gather code coverage information for unit tests.",
+  "description": "coverage database tasks which can be used to gather code coverage information for unit tests. Forked for POPP6/PHP8",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "license": "LGPL-3.0-only",
